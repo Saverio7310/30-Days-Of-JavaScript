@@ -1,0 +1,7 @@
+console.log(typeof '10')
+console.log(Math.round(parseFloat('9.8')))
+console.log(Math.ceil(parseFloat('9.8')))
+console.log('python'.includes('on') && 'jargon'.includes('on'))
+console.log('I hope this course is not full of jargon'.indexOf('jargon') > 0)
+console.log(Math.round(Math.random()*100))
+console.log(Math.round(Math.random()*50+50))
