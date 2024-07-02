@@ -2862,3 +2862,5 @@ const countries_data = [
 			"area": 390757
 	}
 ]
+
+exports.countries = countries_data
